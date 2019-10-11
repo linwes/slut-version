@@ -1,0 +1,120 @@
+html {
+    font-size: 16px;
+
+}
+body {
+    margin: 0;
+    padding:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    background-image: url(../bilder/black.jpg);
+    /* background-size: contain; */
+    font-weight: bold;
+    background-attachment: fixed;
+    
+    
+    
+    
+}
+
+nav {
+    
+    list-style-type: none;
+    margin: 0px;
+    padding:  14px 16px;
+   overflow: hidden;
+    
+   
+  
+}
+  
+nav a {
+    float: left;
+    color: #fff;
+    text-align: center;
+    padding: 14px 50px;
+    margin: 0px;
+    text-decoration: none;
+    
+  }
+   
+    
+
+
+    
+
+ a:hover{
+    background-color:grey;  
+   } 
+
+.intro{
+    font-size: 1.2rem;
+    
+    
+}
+/*img{ 
+   max-width: 1377px;
+   max-height: 768px; 
+   
+} */
+footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+footer ul li{
+    display: inline;
+
+}
+
+
+form{
+    text-align: center;
+
+}
+form.form1{
+    text-align: left;
+}
+
+input{
+    position: absolute;
+    left: 101px;
+    padding:0;
+}
+
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+    
+  }
+#medRuta{
+    position: relative; right:11px;
+}
+footer{
+    text-align: center;
+    border-top: 1px #FFFF solid;
+    margin-top: 3px;
+
+}
+.form1{
+    position: relative; left:20px;
+}
+
+
+
+    
+    
+    
+ 
+
+
+  
+
+
+
+ 
